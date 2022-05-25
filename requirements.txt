@@ -31,7 +31,7 @@ Pillow==7.1.1
 psycopg2==2.8.5
 pycodestyle==2.5.0
 pyflakes==2.1.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dotenv==0.13.0
